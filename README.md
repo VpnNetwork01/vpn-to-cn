@@ -24,9 +24,9 @@
 <br>
 <br>  
 
-## [快帆](https://af.kuaifan.club/scripts/chm1f4?a_aid=66fcc6c6ed50f)  
+## [快帆](https://af.kuaifan.club/scripts/chm1f4?a_aid=66fcc6c6ed50f&a_bid=b9bf8033)  
 
-[![20241005120733.png](https://i.postimg.cc/Jn0Xd6rX/20241005120733.png)](https://af.kuaifan.club/scripts/chm1f4?a_aid=66fcc6c6ed50f)
+[![20241005120733.png](https://i.postimg.cc/Jn0Xd6rX/20241005120733.png)](https://af.kuaifan.club/scripts/chm1f4?a_aid=66fcc6c6ed50f&a_bid=b9bf8033)
 
 - 专注翻墙回国服务
 - 150条高速回国线路，中国大陆多地节点
