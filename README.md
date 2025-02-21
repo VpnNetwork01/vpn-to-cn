@@ -44,9 +44,9 @@
 
 
 
-## [Transocks（穿梭）](https://www.transocks.com/)  
+## [Transocks（穿梭）](https://www.transocks.com/payment?affiliate-code=4zxdq6q)  
 
-[![20241005121017.jpg](https://i.postimg.cc/DZ4rwj9T/20241005121017.jpg)](https://www.transocks.com/)
+[![20241005121017.jpg](https://i.postimg.cc/DZ4rwj9T/20241005121017.jpg)](https://www.transocks.com/payment?affiliate-code=4zxdq6q)
 
 - 提供Windows、iOS、Android、Mac、浏览器插件等客户端
 - 支持同时3台设备
